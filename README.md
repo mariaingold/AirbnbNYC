@@ -33,4 +33,4 @@ What factors influence Airbnb listing prices in NYC, and how can Airbnb provide 
 
 [Open In GitHub](https://github.com/mariaingold/AirbnbNYC/blob/main/AirbnbNYC.ipynb)
 
-[Open in Google Colab](https://colab.research.google.com/github/mariaingold/EDA_AutoMPG/blob/main/2_AutoMPG_EDA.ipynb)
+[Open in Google Colab](https://colab.research.google.com/github/mariaingold/AirbnbNYC/blob/main/AirbnbNYC.ipynb)

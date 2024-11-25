@@ -21,7 +21,7 @@ Determine interesting business analytic substantive question answered by dataset
 
 #### Agreed by: Ahmed, Danty, Maria, Murthy
 
-What factors influence Airbnb listing prices in NYC, and how can Airbnb provide tailored pricing recommendations based on location, room type, and host characteristics?
+How can Airbnb NYC optimise revenues and growth by providing tailored pricing recommendations based on understanding the influence of location, room type and host characteristics on price?
 
 ## USAGE
 

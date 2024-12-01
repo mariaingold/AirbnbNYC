@@ -21,7 +21,7 @@ Determine interesting business analytic substantive question answered by dataset
 
 #### Agreed by: Ahmed, Danty, Maria, Murthy
 
-How can Airbnb NYC optimise revenue growth by providing tailored pricing recommendations based on understanding the influence of location, room type and host characteristics on price?
+How can Airbnb NYC optimise revenue growth through tailored pricing recommendations based on location, room type, and host characteristics?
 
 ## USAGE
 
